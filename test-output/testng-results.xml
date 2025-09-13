@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-09-13T17:07:12 IST" name="Default suite" finished-at="2025-09-13T17:08:08 IST" duration-ms="55627">
+  <suite started-at="2025-09-13T20:15:57 IST" name="Default suite" finished-at="2025-09-13T20:16:35 IST" duration-ms="37992">
     <groups>
     </groups>
-    <test started-at="2025-09-13T17:07:12 IST" name="Default test" finished-at="2025-09-13T17:08:08 IST" duration-ms="55627">
+    <test started-at="2025-09-13T20:15:57 IST" name="Default test" finished-at="2025-09-13T20:16:35 IST" duration-ms="37992">
       <class name="flash.lyfngo.test.ForgotPasswordTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:flash.lyfngo.test.ForgotPasswordTest@384ad17b]" started-at="2025-09-13T17:07:12 IST" name="setup" finished-at="2025-09-13T17:07:17 IST" duration-ms="4705" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:flash.lyfngo.test.ForgotPasswordTest@384ad17b]" started-at="2025-09-13T20:15:57 IST" name="setup" finished-at="2025-09-13T20:16:07 IST" duration-ms="9552" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="ForgotPasswordValidate()[pri:0, instance:flash.lyfngo.test.ForgotPasswordTest@384ad17b]" started-at="2025-09-13T17:07:17 IST" name="ForgotPasswordValidate" finished-at="2025-09-13T17:08:07 IST" duration-ms="50315" status="PASS">
+        <test-method signature="ForgotPasswordValidate()[pri:0, instance:flash.lyfngo.test.ForgotPasswordTest@384ad17b]" started-at="2025-09-13T20:16:07 IST" name="ForgotPasswordValidate" finished-at="2025-09-13T20:16:35 IST" duration-ms="27540" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ForgotPasswordValidate -->
-        <test-method is-config="true" signature="closeEntireWindow()[pri:0, instance:flash.lyfngo.test.ForgotPasswordTest@384ad17b]" started-at="2025-09-13T17:08:07 IST" name="closeEntireWindow" finished-at="2025-09-13T17:08:08 IST" duration-ms="556" status="PASS">
+        <test-method is-config="true" signature="closeEntireWindow()[pri:0, instance:flash.lyfngo.test.ForgotPasswordTest@384ad17b]" started-at="2025-09-13T20:16:35 IST" name="closeEntireWindow" finished-at="2025-09-13T20:16:35 IST" duration-ms="848" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeEntireWindow -->
